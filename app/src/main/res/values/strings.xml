@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sklep Allegro</string>
+    <string name="error_message">Some error with a server, try later!</string>
+    <string name="name">Name</string>
+    <string name="cena">cena:</string>
+    <string name="price">price</string>
+    <string name="desctiption">Desctiption</string>
+</resources>
